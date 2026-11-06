@@ -1,7 +1,8 @@
 Some A.I images, that I created.
-Cars: 
-<img width="640" height="362" alt="lbnissangtr3preview" src="https://github.com/user-attachments/assets/54a634ed-ab0a-442f-aeab-62e8f8630e4c" />
 
+Cars:
+
+<img width="400" height="226" alt="lbnissangtr3preview" src="https://github.com/user-attachments/assets/e0b93c91-4134-4d15-a696-a0f42e397056" />
 
 -----------------------
 
