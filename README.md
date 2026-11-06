@@ -1,5 +1,6 @@
 
 
+-----------------------
 
 
 How to: In Terminal (Konsole, Kitty, Alacritty)
