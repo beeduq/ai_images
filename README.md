@@ -1,3 +1,7 @@
+
+
+
+
 How to: In Terminal (Konsole, Kitty, Alacritty)
 
 cd ~/Pictures
