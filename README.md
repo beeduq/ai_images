@@ -1,9 +1,9 @@
-<img width="885" height="500" alt="lbnissangtr3preview" src="https://github.com/user-attachments/assets/6cf04582-eeaf-473c-ba8c-f56918dcfc13" />
-
+Some A.I images, that I created.
+Cars: 
+<img width="640" height="362" alt="lbnissangtr3preview" src="https://github.com/user-attachments/assets/54a634ed-ab0a-442f-aeab-62e8f8630e4c" />
 
 
 -----------------------
-
 
 How to: In Terminal (Konsole, Kitty, Alacritty)
 
